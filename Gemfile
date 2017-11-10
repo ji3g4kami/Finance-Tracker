@@ -10,6 +10,9 @@ end
 gem 'rails', '~> 5.1.4'
 # For Authentication
 gem 'devise'
+# Front-end decoration
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
